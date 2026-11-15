@@ -1,0 +1,8 @@
+{
+  "name": "Remix MissionForge",
+  "description": "Interactive 3D space-mission engineering and flight simulation inspired by NASA mission control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
